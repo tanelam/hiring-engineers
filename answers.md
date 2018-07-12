@@ -4,8 +4,9 @@ Your answers to the questions go here.
 
 - First thing I did was to set up my environment. I used `Vagrant` and `VirtualBox` to complete this assignment. I decided to use `Vagrant` since it uses a much simpler architecture than Docker.
 
-<!-- VirtualBox installation picture here -->
+![alt text](https://github.com/tanelam/hiring-engineers/blob/master/images/VirtualBox-Installed.jpg)
 
+/Users/tanelam/Development/Datadog/hiring-engineers/Images
 - Then, I sign up for Datadog to get access to my agent reporting metrics. An API key was provided to me in order to install Datadog Agent in my local machine.
 
 <!-- Datadog-Agent-Install picture here -->
