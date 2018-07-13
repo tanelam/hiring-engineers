@@ -1,10 +1,10 @@
-# 📈 🐶 Datadog 🐶 📉
+# 📈 🐶 Datadog - Hiring Engineers Exercise 🐶 📉
 
 ## Table of Contents
 
-* Setting Up Environment(https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#setting-up-environment)
+* [Setting Up Environment](https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#setting-up-environment)
 
-* Collecting Metrics(https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#collecting-metrics)
+* [Collecting Metrics](https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#collecting-metrics)
 
 ## Setting Up Environment
 
