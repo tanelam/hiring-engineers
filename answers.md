@@ -1,4 +1,12 @@
-# Setting up Environment
+# 📈 🐶 Datadog 🐶 📉
+
+## Table of Contents
+
+* Setting Up Environment(https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#setting-up-environment)
+
+* Collecting Metrics(https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/answers.md#collecting-metrics)
+
+## Setting Up Environment
 
 - First thing I did was to set up my environment. I used `Vagrant` and `VirtualBox` to complete this assignment. I decided to use `Vagrant` since it uses a much simpler architecture than Docker.
 
@@ -10,7 +18,7 @@
 
 ---
 
-# Collecting metrics
+## Collecting Metrics
 
 ### Add tags in the Agent config file and show us a screenshot of your host and its tags on the Host Map page in Datadog.
 
