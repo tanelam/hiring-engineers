@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/Images/VirtualBox-Installed.jpg)
 
-- Then, I sign up for Datadog to get access to my agent reporting metrics. An API key was provided to me in order to install Datadog Agent in my local machine.
+- Once the VirtualBox was up and running I used the command `vagrant ssh` to log into the to the newly started VirtualBox. Then, I sign up for Datadog to get access to my agent reporting metrics. An API key was provided to me in order to install Datadog Agent in my VirtualBox.
 
 ![alt text](https://github.com/tanelam/hiring-engineers/blob/Tania_Aparicio-Solutions_Engineer/Images/Datadog-Agent-Installed.jpg)
 
